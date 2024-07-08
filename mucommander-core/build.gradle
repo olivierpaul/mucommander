@@ -24,7 +24,7 @@ dependencies {
     compileOnly project(':mucommander-core-preload')
 
 
-    compileOnly 'com.formdev:flatlaf:2.2'
+    compileOnly 'com.formdev:flatlaf:3.4.1'
     compileOnly 'org.violetlib:vaqua:10'
     compileOnly 'org.jetbrains.jediterm:jediterm-core:3.17'
     compileOnly 'org.jetbrains.jediterm:jediterm-ui:3.17'

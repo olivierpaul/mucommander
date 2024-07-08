@@ -7,7 +7,7 @@ repositories {
 
 dependencies {
     // The following libs are required by JediTerm.
-    implementation 'org.checkerframework:checker-qual:3.24.0'
+    implementation 'org.checkerframework:checker-qual:3.45.0'
 
     comprise 'org.jetbrains.jediterm:jediterm-core:3.17'        // if you change version here, remember to change it also in mucommander-core
     comprise 'org.jetbrains.jediterm:jediterm-ui:3.17'          // if you change version here, remember to change it also in mucommander-core
